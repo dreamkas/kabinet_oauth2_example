@@ -1,0 +1,15 @@
+{
+  "name": "kabinet_oauth2_example",
+  "version": "1.0.0",
+  "description": "OAuth2 example",
+  "scripts": {
+    "start": "node ./src/server"
+  },
+  "author": "Kabinet WebDev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.0",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  }
+}
